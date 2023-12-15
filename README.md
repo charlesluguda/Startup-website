@@ -1,7 +1,7 @@
-#StartUp Website
+# StartUp Website
 This repository contains the code for a simple website built using HTML, CSS, and JavaScript. The website comprises several sections including:
-1.Home: Introduction to the website.
-2.Services: Details about the services offered.
+1. Home: Introduction to the website.
+2. Services: Details about the services offered.
 3.FAQs: Frequently Asked Questions section.
 ## Table of Contents
 
