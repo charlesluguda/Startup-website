@@ -13,7 +13,7 @@ This repository contains the code for a simple website built using HTML, CSS, an
 
 ## Features
 - Responsive Design: The website is designed to be responsive, ensuring a seamless experience across devices.
-- Sections: Organized sections for Home, Services, and FAQs for easy navigation and information access.
+- Sections: Organized sections for Home, Services, Contacts us, and FAQs for easy navigation and information access.
 
 ## Usage
 To use or view this website locally, you can clone this repository to your local machine:
